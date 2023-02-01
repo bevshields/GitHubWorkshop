@@ -2,11 +2,10 @@
 # Git Workshop 1: Example code -------------------------------------------------
 #
 
-
+#making a new change
 
 #
-# load data --------------------------------------------------------------------
-#
+
 
 load("data.Rdata")                                                              # please set your working directory 
 
